@@ -104,7 +104,7 @@ class Screen extends StatelessWidget {
               Column(
                 mainAxisAlignment: MainAxisAlignment.spaceAround,
                 children:<Widget> [
-                  Image.asset('assets/cnf_1.png'),
+                  Image.asset('cnf_1.png'),
                   Text(
                     "Applying Education in a Complex World",
                   ),
@@ -114,7 +114,7 @@ class Screen extends StatelessWidget {
               Column(
                 mainAxisAlignment: MainAxisAlignment.spaceAround,
                 children:<Widget> [
-                  Image.asset('assets/cnf_2.png'),
+                  Image.asset('cnf_2.png'),
                   Text(
                     "HERITAGES: Past and Present - Build and Social",
                   ),
@@ -137,7 +137,7 @@ class Screen extends StatelessWidget {
               Column(
                 mainAxisAlignment: MainAxisAlignment.start,
                 children:<Widget> [
-                  Image.asset('assets/cnf_3.png'),
+                  Image.asset('cnf_3.png'),
                   Text(
                     "New Perspectives in Science Education",
                   ),
